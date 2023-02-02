@@ -64,10 +64,10 @@ to use with citation.
   large, (591198 records), I removed all duplicates in the columns. I
   also fixed all structural errors.
 
-#### 2.2.2 R-Studio
+#### 2.2.2 Big Query (SQL)
 
 - After the excel clean-up and formatting, I imported the data into
-  RStudio, where I extracted the relevant data, aggregated, joined data
+  Big query, where I extracted the relevant data, aggregated, joined data
   and calculated fields to extract data needed for the analysis.
 
 ### 2.3 Load the Packages and library
