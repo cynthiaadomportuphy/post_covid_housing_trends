@@ -188,12 +188,14 @@ View(Home_sold_percent2)
   sold column to spatially display the distribution of the number of
   homes sold at the state level.
   
-  ![maps2019-2022](https://user-images.githubusercontent.com/121705109/216203672-c35f38f2-cacb-4713-a2b4-5e1ff271d028.png)
+  
+![maps_2019-2021](https://user-images.githubusercontent.com/121705109/216205635-aaa2a980-9126-4ccf-9231-17a6730ba7d9.png)
 
 
 
 
-![Sheet 1 (4)](https://user-images.githubusercontent.com/121705109/216205347-9dfff2c1-a1ff-4694-92f8-575d3b771833.png)
+
+
 
   
 
