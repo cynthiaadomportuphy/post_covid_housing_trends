@@ -193,14 +193,9 @@ View(Home_sold_percent2)
 
 
 
+![Sheet 1 (4)](https://user-images.githubusercontent.com/121705109/216205347-9dfff2c1-a1ff-4694-92f8-575d3b771833.png)
 
-  ![Sheet 1 (1)](https://user-images.githubusercontent.com/121705109/216205135-6bf501bc-39b7-41d5-bd69-9575ac593355.png)
-
-
-
-
-![Sheet 1 (3)](https://user-images.githubusercontent.com/121705109/216205170-7d00e464-5572-4bf6-bb5a-83da0b1b1a7e.png)
-
+  
 
   ![maps2022](https://user-images.githubusercontent.com/121705109/216203699-1da41931-5c24-4022-9408-e8e7c528dcb8.png)
 
