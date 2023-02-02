@@ -100,20 +100,26 @@ library("magrittr")
 ### 2.4 Import the Data
 
 ``` r
-Housing_metro_2019 <-readr:::read_csv("C:/Users/cynta/OneDrive/Desktop/Project/post_covid_housing_trends/raw_data/Housing_Metro_2019.csv")
+Housing_metro_2019 
+    <-readr:::read_csv("C:/Users/cynta/OneDrive/Desktop/Project/post_covid_housing_trends/raw_data/Housing_Metro_2019.csv")
 
 
-Housing_metro_2021 <-readr:::read_csv("C:/Users/cynta/OneDrive/Desktop/Project/post_covid_housing_trends/raw_data/Housing_Metro_2021.csv")
+Housing_metro_2021 
+    <-readr:::read_csv("C:/Users/cynta/OneDrive/Desktop/Project/post_covid_housing_trends/raw_data/Housing_Metro_2021.csv")
 View(Housing_metro_2021)
 
-Housing_metro_2022 <-readr:::read_csv("C:/Users/cynta/OneDrive/Desktop/Project/post_covid_housing_trends/raw_data/Housing_Metro_2022.csv")
+Housing_metro_2022 
+    <-readr:::read_csv("C:/Users/cynta/OneDrive/Desktop/Project/post_covid_housing_trends/raw_data/Housing_Metro_2022.csv")
 
 
-Housing_metro_top10 <-readr:::read_csv("C:/Users/cynta/OneDrive/Desktop/Project/post_covid_housing_trends/raw_data/metro_top10.csv")
+Housing_metro_top10 
+    <-readr:::read_csv("C:/Users/cynta/OneDrive/Desktop/Project/post_covid_housing_trends/raw_data/metro_top10.csv")
 
-Housing_metro <-readr:::read_csv("C:/Users/cynta/OneDrive/Desktop/Project/post_covid_housing_trends/raw_data/metro_housing_type.csv")
+Housing_metro 
+    <-readr:::read_csv("C:/Users/cynta/OneDrive/Desktop/Project/post_covid_housing_trends/raw_data/metro_housing_type.csv")
 
-Housing_years <-readr:::read_csv("C:/Users/cynta/OneDrive/Desktop/Project/post_covid_housing_trends/raw_data/years.csv")
+Housing_years 
+    <-readr:::read_csv("C:/Users/cynta/OneDrive/Desktop/Project/post_covid_housing_trends/raw_data/years.csv")
 ```
 
 ### 2.5 Running Initial Statistics
