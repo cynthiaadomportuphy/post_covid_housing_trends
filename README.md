@@ -2,6 +2,13 @@ Hottest Housing Spots in the US Metropolitan Areas
 ================
 2023-02-01
 
+
+
+
+![house](https://user-images.githubusercontent.com/121705109/216204121-f1a2220a-985f-4183-a1dd-85670001af03.jpg)
+
+
+
 ## Table of Content
 
 1.  [SUMMARY](#SUMMARY)
@@ -180,6 +187,21 @@ View(Home_sold_percent2)
   across the United States, I created maps in Tableau using the home
   sold column to spatially display the distribution of the number of
   homes sold at the state level.
+  
+  ![maps2019-2022](https://user-images.githubusercontent.com/121705109/216203672-c35f38f2-cacb-4713-a2b4-5e1ff271d028.png)
+
+
+
+
+
+  
+  
+  ![maps2022](https://user-images.githubusercontent.com/121705109/216203699-1da41931-5c24-4022-9408-e8e7c528dcb8.png)
+
+  
+  
+  
+  
 
 - The first map above shows that for the period between 2019-2021, the
   states that experienced the highest percent housing sales included
@@ -187,9 +209,10 @@ View(Home_sold_percent2)
   Illinois, and New York. Some of lowest sales occurred in Montana,
   North Dakota, West Virginia. Wyoming had no data.
 
-When housing sales started declining into 2022, according to the second
-map, states such as Texas, Florida, California, New York, Georgia and
-Illinois topped the list in 2022.
+- When housing sales started declining into 2022, according to the second
+  map, states such as Texas, Florida, California, New York, Georgia and
+  Illinois topped the list in 2022.
+
 
 ### 3.2 How have Housing Sales (The Number of Houses Sold) Changed between 2012-2022?
 
@@ -258,10 +281,24 @@ ggplot(data = Housing_metro_top10) + geom_histogram(fill="#008b9e",
 
 ![](housing_files/figure-gfm/unnamed-chunk-9-1.png)<!-- -->
 
+
+
+
+![Top10](https://user-images.githubusercontent.com/121705109/216204034-55a344bb-618e-45f6-ae0f-694b7b7936ce.png)
+
+
+
 - Atlanta, GA came on top, followed by Chicago, IL. The rest included
   Houston, TX and Washington, DC. Metros that had the lowest number of
   homes sold include Selinsgrove, PA, Ruston, LA, West Point, MS and
   Bradford, PA (See Table below).
+  
+  
+  
+  
+![bottom10](https://user-images.githubusercontent.com/121705109/216204100-2df9abf5-e2ae-4c2e-b7ea-68f0b5004ade.png)
+
+
 
 ### 3.5 What was the housing preference type for investors and buyers?
 
